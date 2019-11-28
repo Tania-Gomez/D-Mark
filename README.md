@@ -40,7 +40,7 @@
 ![](images/E1-Yoast_legibilidad.jpg)
 
 ### Entrada 2: Análisis SEO
-![](images/E2-Yoast_SEO.jpg)
+![](images/E2-Yoast_SEO2.jpg)
 
 ### Entrada 2: Análisis Legibilidad
 ![](images/E2-Yoast_legibilidad.jpg)
