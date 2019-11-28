@@ -33,6 +33,8 @@
 ### Resultado posterior a la optimización:
 ![](images/gtmetrix-2.jpg)
 
+Nota: Las imágenes sí están optimizadas, gtmetrix reclama otro formato para mayor compresión pero éste no está disponible en el plugin gratuito.
+
 ### Entrada 1: Análisis SEO
 ![](images/E1-Yoast_SEO.jpg)
 
