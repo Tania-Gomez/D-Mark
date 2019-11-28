@@ -1,4 +1,60 @@
-# D-Mark
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ac imperdiet massa, et dignissim justo. Vestibulum quis tincidunt erat. Nulla nec malesuada mi, a aliquet est. Pellentesque velit magna, accumsan a auctor a, lobortis vitae urna. Integer lectus urna, sollicitudin at lacus at, consectetur luctus dui. Sed id sem eget turpis euismod varius. Nullam nec tortor lacus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras porta purus sed consectetur porttitor. Curabitur in euismod velit. Aenean at lacus at velit porta suscipit ac vel metus. Morbi mattis varius tortor in tristique. Vestibulum vitae urna libero. Morbi neque est, imperdiet at orci vitae, tempus bibendum dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+# Prueba - DMark, tu marca es tu identidad
 
-Vestibulum placerat massa id egestas molestie. Vestibulum viverra neque sit amet purus rutrum, sed sagittis sapien tincidunt. Sed interdum finibus magna, tincidunt fringilla lorem finibus at. Aliquam in commodo neque. Nulla sagittis tellus et elit ultricies aliquet. Vestibulum sed ligula eu ante varius varius. Mauris quis augue massa. Nunc non hendrerit est. Aenean laoreet ornare lectus. Aliquam eget viverra libero, a consectetur dolor. Curabitur nec nunc rutrum, dignissim massa a, faucibus erat. Aliquam a leo ac nisl viverra imperdiet at sed enim. Mauris ut erat diam. Etiam ut molestie purus. In et sapien sed diam fermentum elementum. Vestibulum elementum a nulla id efficitur.
+### URL del sitio: [http://g4e9.desafiolab.com/D-Mark/](http://g4e9.desafiolab.com/D-Mark)
+
+### Usuario y Contraseña del Sitio
+  Usuario: tania-gomez
+  Contraseña: TGA_user-dm333
+
+### Aspectos de seguridad que optimicé:
+	- Instalación de última versión de WordPress
+	- Utilización de claves robustas
+	- Reducción de permisos del archivo wp-config.php de 666 a 600
+	- Instalación y configuración de plugin de seguridad Wordfence
+
+### Optimización:
+	- Archivo .htaccess con indicaciones para:
+		Comprimir archivos de texto.
+		Expiración de los headers, cada 1 mes.
+		Desactivación ciertas etiquetas.
+		Acceso denegado a archivos y directorios ocultos.
+		Acceso denegado a los archivos de copia de seguridad y de origen.
+		Permitir fuentes de dominio cruzado.
+		Autocodificación en codificación UTF-8.
+	- Instalación y configuración de plugin Smushit para optimización de imágenes.
+	- Instalación y configuración de plugin Auotptimize para optimizar y minificar HTML, JavaScript y CSS.
+	- Instalación y configuración de plugin W3 Total Cache para optimizar los temas de caché.
+
+	
+### Resultado anterior a la optimización:
+
+![](images/gtmetrix-1.jpg)
+
+
+### Resultado posterior a la optimización:
+
+![](images/gtmetrix-2.jpg)
+
+### Entrada 1: Análisis SEO
+![](images/E1-Yoast_SEO.jpg)
+
+### Entrada 1: Análisis Legibilidad
+![](images/E1-Yoast_legibilidad.jpg)
+
+### Entrada 2: Análisis SEO
+![](images/E2-Yoast_SEO.jpg)
+
+### Entrada 2: Análisis Legibilidad
+![](images/E2-Yoast_legibilidad.jpg)
+
+### Entrada 3: Análisis SEO
+![](images/E3-Yoast_SEO.jpg)
+
+### Entrada 3: Análisis Legibilidad
+![](images/E3-Yoast_legibilidad.jpg)
+
+### URL del Sitemap
+[https://g4e9.desafiolab.com/D-Mark/sitemap.xml](https://g4e9.desafiolab.com/D-Mark/sitemap.xml)
+
+### Integración con Google Search Console:
+![](images/xml-sitemap.jpg)
