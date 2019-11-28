@@ -1,10 +1,11 @@
 # Prueba - DMark, tu marca es tu identidad
 
-### URL del sitio: [http://g4e9.desafiolab.com/D-Mark/](http://g4e9.desafiolab.com/D-Mark)
+### URL del sitio:
+	[http://g4e9.desafiolab.com/D-Mark/](http://g4e9.desafiolab.com/D-Mark)
 
 ### Usuario y Contraseña del Sitio
-  Usuario: tania-gomez
-  Contraseña: TGA_user-dm333
+	Usuario: tania-gomez
+	Contraseña: TGA_user-dm333
 
 ### Aspectos de seguridad que optimicé:
 	- Instalación de última versión de WordPress
@@ -27,12 +28,9 @@
 
 	
 ### Resultado anterior a la optimización:
-
 ![](images/gtmetrix-1.jpg)
 
-
 ### Resultado posterior a la optimización:
-
 ![](images/gtmetrix-2.jpg)
 
 ### Entrada 1: Análisis SEO
